@@ -58,6 +58,12 @@ h2 {
   box-shadow: 0 8px 12px rgba(0, 0, 0, 0.4);
 }
 
+.course-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
 .course-card h3 {
   font-size: 1.5rem;
   color: #ffd700;
